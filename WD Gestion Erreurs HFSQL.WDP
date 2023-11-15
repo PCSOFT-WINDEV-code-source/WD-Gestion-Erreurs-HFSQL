@@ -1,0 +1,100 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Gestion Erreurs HFSQL
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Le projet a pour but de tester les différents modes de gestion des erreurs HFSQL
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Gestion Erreurs HFSQL
+    internal_properties : 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
+    configuration_id : 2960236033665698186
+    type : 1
+    generation_name : WD Gestion Erreurs HFSQL.exe
+    version :
+     major_version : 21
+     internal_generation_version : 2
+     autoincrement_version : false
+    icon_filename : .\GAF.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAAX4yRe5faH6zNPbFyLiWFQ+R2eJtbOR/BD+62zelXIYHTpeJOUiVDlJl+MrnueFLvPf0FUFFYwwtoYFA==
+ elements :
+  identifier : 0x4aadf57e004dc054
+  elements :
+   -
+     name : FEN_Erreurs
+     identifier : 0x4fd85bf0002c83d1
+     internal_properties : CAAAAAgAAADSKAoerZqSTRU8vXiJa02y7J/rI5C0PmyEJ9VWvHSgeISqsxcPKQMWNu3XIeEf2803Pw==
+     physical_name : .\FEN_Erreurs.wdw
+     type : 2
+   -
+     name : FEN_Doublon
+     identifier : 0x46d6cddb0006f644
+     internal_properties : CAAAAAgAAAB23F5CYd5WWWEICbRVKB0KoM1vNyriND/Mg+IL9yVvkbdbhsRT7c9iQvnj3aVbJ5lj4w==
+     physical_name : .\Fen_Doublon.wdw
+     type : 2
+   -
+     name : FEN_Integrite
+     identifier : 0x46d6cddd0007fc9d
+     internal_properties : CAAAAAgAAABFwa3xTmtDXGo9vnmKbkC9HyxasiFh9huUBoyjPQ8P6RM9whgOKgIXN+7o0FCAeGhQ0A==
+     physical_name : .\Fen_Integrite.wdw
+     type : 2
+   -
+     name : TEST_Erreurs
+     identifier : 0x424d99930655d810
+     internal_properties : CAAAAAgAAAC5leElgv+3uAbpapV2S2j9syJqArvnZc1UC4tYgGCqfo5G9eUyzq5DY9rEPMQ8xDScpA==
+     physical_name : .\TEST_Erreurs.wxt
+     type : 17
+  other_elements : []
+  analysis : .\WD Gestion Erreurs HFSQL.ana\WD Gestion Erreurs HFSQL.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wb_style_sheet : .\ErreursHF.wws
+ code_elements :
+  internal_properties : CAAAAAgAAACbWUWex5DKOtPkn829Bvscg4VP9myncorYYnxYOiQfnpxpombmXw4RylhbayZUbDSCnNNDMnxbKUqskccDZBdKi+ORAkWeETxA3Mk1+mLnuO9G603to/Q=
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      // Création des fichiers
+      SI PAS HCréationSiInexistant(Produit) ALORS Info("Impossible de créer ou d'initialiser l'accès au fichier : Produit",HErreurInfo())
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Gestion Erreurs HFSQL
+     identifier : 0x4aadf57e0058c0d1
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : ErreursHF
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
